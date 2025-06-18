@@ -1,0 +1,6 @@
+jmeter.log
+Load_Test_Results.jtl
+Stress_Test_Results.jtl
+package-lock.json
+package.json
+node_modules
